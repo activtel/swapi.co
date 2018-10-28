@@ -120,7 +120,7 @@ export default class FilmEditForm extends Component {
                             </div>
                         </div>
                         <div className="form-group row">
-                            <label for="director" className="col-sm-2 col-form-label">Продюссер</label>
+                            <label for="director" className="col-sm-2 col-form-label">Режиссер</label>
                             <div className="col-sm-10">
                                 <input
                                     type="text"
